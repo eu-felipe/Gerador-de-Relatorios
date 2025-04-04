@@ -1,5 +1,5 @@
 # Gerador de Relatórios
- O gerador possibilita que um arquivo CSV, com informações de feedbacks para os alunos, sejam transformados em um relatório organizado em PDF, de forma prática e eficiente. Ele foi construído através da linguagem Python e transformado em um executável, para que qualquer pessoa possa gerar esses relatórios apenas insirindo o arquivo CSV.
+ O gerador possibilita que um arquivo CSV, com informações de feedbacks para os alunos, sejam transformados em um relatório organizado em PDF, de forma prática e eficiente. Ele foi construído através da linguagem Python e transformado em um executável, para que qualquer pessoa possa gerar esses relatórios apenas inserindo o arquivo CSV.
  
 ![Gerador](https://github.com/user-attachments/assets/169895e5-12bd-4d12-a02a-df319d746202)
 
